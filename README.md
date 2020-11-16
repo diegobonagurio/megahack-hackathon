@@ -21,7 +21,7 @@ mais sobre o Linker Contábil
 
 
 ## Como usar
-Acesse o [Link](https://www.https://youtu.be/zZXmUar5duM) para saber mais sobre a solução.
+Acesse o [Link](https://www.youtube.com/watch?v=qky2tXH6l-I) para saber mais sobre a solução.
 
 # Como instalar
 
