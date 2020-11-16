@@ -1,8 +1,7 @@
-# megahack
-Getnet Hackathon
+# Mega Hack 5.0
+Desafio LINKER
 
-# TÁ FÁCIL 
-
+# LINKER CONTÁBIL 
  * [Sobre](#Sobre)
    * [Como usar](#como-usar)
    * [Tecnologias](#Tecnologias)
@@ -10,17 +9,17 @@ Getnet Hackathon
 
 
 ## Sobre
+A LINKER CONTÁBIL é a solução que realizará automaticamente o fluxo de caixa da empresa, trazendo todas as informações da conta digital, das movimentações dos cartões e das vendas realizadas pelas máquinas de recebimento.
+O empreendedor terá à disposição também a opção de controle de contas a pagar e a receber.
+Dessa forma, o empreendedor poderá saber tudo que sua empresa pagou e recebeu; tem a pagar e a receber; ver com antecedência como será o saldo de determinado período; saber se vai dar para pagar as contas do dia ou se será preciso renegociar; e até se sua empresa pode vender mais a prazo ou à vista.
+Com a Linker Contábil, o empreendedor poderá saber de antemão se o seu negócio está seguro ou em risco.
 
-O aplicativo TÁ FÁCIL vem para suprir a carência de ferramentas de gestão facilitadas porque apresenta um fluxo de caixa simples, pessoal, conectado à máquina de recebimento da Getnet e pensado especialmente para o MEI. Acesse o [Link](https://www.youtube.com/watch?v=YAPXlRiD9cE&feature=youtu.be) para saber mais sobre o aplicativo Tá Fácil.
 
 ## Como usar
-
-Acesse este [Link](https://www.youtube.com/watch?v=YZyJCT4kk7Y&feature=emb_logo) e saiba como usar o aplicativo TÁ FÁCIL.
+Acesse o [Link](https://www.https://youtu.be/zZXmUar5duM) para saber mais sobre a solução.
 
 
 ## Tecnologias
-
-* Node.js
 * React Native
 * Typescript
 
