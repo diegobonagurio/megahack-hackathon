@@ -4,8 +4,10 @@ Desafio LINKER
 # LINKER CONTÁBIL 
  * [Sobre](#Sobre)
    * [Como usar](#como-usar)
+   * [Como instalar](#como-instalar)
    * [Tecnologias](#Tecnologias)
    * [Autores do Projeto](#Autores-do-Projeto)
+   
 
 
 ## Sobre
@@ -17,6 +19,26 @@ Com a Linker Contábil, o empreendedor poderá saber de antemão se o seu negóc
 
 ## Como usar
 Acesse o [Link](https://www.https://youtu.be/zZXmUar5duM) para saber mais sobre a solução.
+
+# Como instalar
+
+Clone esse repositório
+
+```bash
+git clone https://github.com/diegobonagurio/megahack-hackathon
+```
+
+Acesse a pasta:
+
+```bash
+cd megahack-hackathon
+```
+
+e por fim execute o comando yarn para instalar as dependências do projeto
+```bash
+yarn 
+```
+
 
 
 ## Tecnologias
