@@ -14,7 +14,8 @@ Desafio LINKER
 A LINKER CONTÁBIL é a solução que realizará automaticamente o fluxo de caixa da empresa, trazendo todas as informações da conta digital, das movimentações dos cartões e das vendas realizadas pelas máquinas de recebimento.
 O empreendedor terá à disposição também a opção de controle de contas a pagar e a receber.
 Dessa forma, o empreendedor poderá saber tudo que sua empresa pagou e recebeu; tem a pagar e a receber; ver com antecedência como será o saldo de determinado período; saber se vai dar para pagar as contas do dia ou se será preciso renegociar; e até se sua empresa pode vender mais a prazo ou à vista.
-Com a Linker Contábil, o empreendedor poderá saber de antemão se o seu negócio está seguro ou em risco.
+Com a Linker Contábil, o empreendedor poderá saber de antemão se o seu negócio está seguro ou em risco. Acesse o [Link](https://www.youtube.com/watch?v=zZXmUar5duM) e saiba
+mais sobre o Linker Contábil
 
 
 ## Como usar
