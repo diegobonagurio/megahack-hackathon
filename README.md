@@ -1,6 +1,8 @@
 # Mega Hack 5.0
 Desafio LINKER
 
+![Linker Contábil](https://user-images.githubusercontent.com/56571038/99206594-88e3a800-279a-11eb-8337-b6af61a19736.png)
+
 # LINKER CONTÁBIL 
  * [Sobre](#Sobre)
    * [Como usar](#como-usar)
